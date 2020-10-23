@@ -13,6 +13,8 @@ Title (year) | IMDb Rating | Genres | Directors
 [28 Weeks Later (2007)](https://www.imdb.com/title/tt0463854/) | 7 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
 [The Blair Witch Project (1999)](https://www.imdb.com/title/tt0185937/) | 6.5 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
 [Split (2016)](https://www.imdb.com/title/tt4972582/) | 7.3 | Horror, Thriller | M. Night Shyamalan
+[Planet Terror (2007)](https://www.imdb.com/title/tt1077258/) | 7.1 | Action, Adventure, Comedy | Robert Rodriguez
+[Death Proof (2007)](https://www.imdb.com/title/tt1028528/) | 7.0 | Action, Adventure, Thriller | Quentin Tarantino
 [Grindhouse (2007)](https://www.imdb.com/title/tt0462322/) | 7.5 | Action, Horror, Thriller | Edgar Wright, Rob Zombie, Quentin Tarantino, Robert Rodriguez, Eli Roth
 [Jacob's Ladder (1990)](https://www.imdb.com/title/tt0099871/) | 7.5 | Drama, Horror, Mystery | Adrian Lyne
 [The Ring (2002)](https://www.imdb.com/title/tt0298130/) | 7.1 | Horror, Mystery | Gore Verbinski
