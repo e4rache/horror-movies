@@ -40,14 +40,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Title | IMDb Rating | Year | Genres | Directors
 ----- | ----------- | ---- | ------ | ----------
-[Dead Calm](https://www.imdb.com/title/tt0097162/) | no | 6.8 | 1989 | Horror, Thriller | Phillip Noyce
+[Dead Calm](https://www.imdb.com/title/tt0097162/) | 6.8 | 1989 | Horror, Thriller | Phillip Noyce
 [Pi](https://www.imdb.com/title/tt0138704/) | 7.4 | 1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
+[28 Weeks Later](https://www.imdb.com/title/tt0463854/) | 7 | 2007 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
+[The Blair Witch Project](https://www.imdb.com/title/tt0185937/) | 6.5 | 1999 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
 
 
-
-
-28 Weeks Later,https://www.imdb.com/title/tt0463854/,7,2007,"Action, Horror, Sci-Fi",2007-04-26,Juan Carlos Fresnadillo
-The Blair Witch Project,https://www.imdb.com/title/tt0185937/,6.5,1999,"Horror, Mystery",1999-01-25,"Eduardo Sánchez, Daniel Myrick"
 Split,https://www.imdb.com/title/tt4972582/,7.3,2016,"Horror, Thriller",2016-09-26,M. Night Shyamalan
 Grindhouse,https://www.imdb.com/title/tt0462322/,7.5,2007,"Action, Horror, Thriller",2007-03-26,"Edgar Wright, Rob Zombie, Quentin Tarantino, Robert Rodriguez, Eli Roth"
 Jacob's Ladder,https://www.imdb.com/title/tt0099871/,7.5,1990,"Drama, Horror, Mystery",1990-10-29,Adrian Lyne
