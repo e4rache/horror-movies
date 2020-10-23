@@ -2,12 +2,12 @@
 
 
 
-Cover | Title (year) | IMDb Rating | Genres | Directors
------ | ------------ | ----------- | ------ | ----------
-. | [Us (2019)![Image](img/Us.jpg)](https://www.imdb.com/title/tt6857112) | 6.0 | Horror, Mystery, Thriller | Jordan Peele
-. | [Get Out (2017)](https://www.imdb.com/title/tt5052448/) | 7.7 | Horror, Mystery, Thriller | Jordan Peele
-. | [A Quiet Place (2018)](https://www.imdb.com/title/tt6644200/) | 7.5 | Drama, Horror, Sci-Fi | John Krasinski
-. | [Dead Calm (1989)](https://www.imdb.com/title/tt0097162/) | 6.8 | Horror, Thriller | Phillip Noyce
+Title (year) | IMDb Rating | Genres | Directors
+------------ | ----------- | ------ | ----------
+[Us (2019)![Image](img/Us.jpg)](https://www.imdb.com/title/tt6857112) | 6.0 | Horror, Mystery, Thriller | Jordan Peele
+[Get Out (2017)](https://www.imdb.com/title/tt5052448/) | 7.7 | Horror, Mystery, Thriller | Jordan Peele
+[A Quiet Place (2018)](https://www.imdb.com/title/tt6644200/) | 7.5 | Drama, Horror, Sci-Fi | John Krasinski
+[Dead Calm (1989)](https://www.imdb.com/title/tt0097162/) | 6.8 | Horror, Thriller | Phillip Noyce
 [Pi (1998)](https://www.imdb.com/title/tt0138704/) | 7.4 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
 [28 Days Later... (2002)](https://www.imdb.com/title/tt0289043/) | 6.7 | Drama, Horror, Sci-Fi | Danny Boyle
 [28 Weeks Later (2007)](https://www.imdb.com/title/tt0463854/) | 7 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
