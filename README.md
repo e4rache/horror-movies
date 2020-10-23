@@ -1,7 +1,6 @@
 ## a tiny horror movie list 
 
 
-
 Title (year) | IMDb Rating | Genres | Directors
 ------------ | ----------- | ------ | ----------
 [Us (2019)![Image](img/Us.jpg)](https://www.imdb.com/title/tt6857112) | 6.0 | Horror, Mystery, Thriller | Jordan Peele
@@ -11,7 +10,7 @@ Title (year) | IMDb Rating | Genres | Directors
 [Pi (1998)![Image](img/Pi.jpg)](https://www.imdb.com/title/tt0138704/) | 7.4 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
 [28 Days Later... (2002)![Image](img/28DaysLater.jpg)](https://www.imdb.com/title/tt0289043/) | 6.7 | Drama, Horror, Sci-Fi | Danny Boyle
 [28 Weeks Later (2007)![Image](img/28WeeksLater.jpg)](https://www.imdb.com/title/tt0463854/) | 7 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
-[The Blair Witch Project (1999)![Image](img/TheBlairWitchProdject.jpg)](https://www.imdb.com/title/tt0185937/) | 6.5 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
+[The Blair Witch Project (1999)![Image](img/TheBlairWitchProject.jpg)](https://www.imdb.com/title/tt0185937/) | 6.5 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
 [Split (2016)![Image](img/Split.jpg)](https://www.imdb.com/title/tt4972582/) | 7.3 | Horror, Thriller | M. Night Shyamalan
 [Planet Terror (2007)![Image](img/PlanetTerror.jpg)](https://www.imdb.com/title/tt1077258/) | 7.1 | Action, Adventure, Comedy | Robert Rodriguez
 [Death Proof (2007)![Image](img/DeathProof.jpg)](https://www.imdb.com/title/tt1028528/) | 7.0 | Action, Adventure, Thriller | Quentin Tarantino
@@ -25,12 +24,3 @@ Title (year) | IMDb Rating | Genres | Directors
 [The Texas Chainsaw Massacre (1974)![Image](img/TheTexasChainsawMassacre1974.jpg)](https://www.imdb.com/title/tt0072271/) | 7.5 | Horror | Tobe Hooper
 [Hereditary (2018)![Image](img/Hereditary.jpg)](https://www.imdb.com/title/tt7784604/) | 7.3 | Drama, Horror, Mystery | Ari Aster
 [Saw (2004)![Image](img/Saw.jpg)](https://www.imdb.com/title/tt0387564/) | 7.6 | Horror, Mystery | James Wan
-
-
-
-![Image](img/Us.jpg)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
