@@ -44,10 +44,9 @@ Title | IMDb Rating | Year | Genres | Directors
 [Pi](https://www.imdb.com/title/tt0138704/) | 7.4 | 1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
 [28 Weeks Later](https://www.imdb.com/title/tt0463854/) | 7 | 2007 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
 [The Blair Witch Project](https://www.imdb.com/title/tt0185937/) | 6.5 | 1999 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
+[Split](https://www.imdb.com/title/tt4972582/) | 7.3 | 2016 | Horror, Thriller | M. Night Shyamalan
+[Grindhouse](https://www.imdb.com/title/tt0462322/) | 7.5 | 2007 | Action, Horror, Thriller | Edgar Wright, Rob Zombie, Quentin Tarantino, Robert Rodriguez, Eli Roth
 
-
-Split,https://www.imdb.com/title/tt4972582/,7.3,2016,"Horror, Thriller",2016-09-26,M. Night Shyamalan
-Grindhouse,https://www.imdb.com/title/tt0462322/,7.5,2007,"Action, Horror, Thriller",2007-03-26,"Edgar Wright, Rob Zombie, Quentin Tarantino, Robert Rodriguez, Eli Roth"
 Jacob's Ladder,https://www.imdb.com/title/tt0099871/,7.5,1990,"Drama, Horror, Mystery",1990-10-29,Adrian Lyne
 The Ring,https://www.imdb.com/title/tt0298130/,7.1,2002,"Horror, Mystery",2002-10-02,Gore Verbinski
 Carrie,https://www.imdb.com/title/tt0074285/,7.4,1976,Horror,1976-11-03,Brian De Palma
