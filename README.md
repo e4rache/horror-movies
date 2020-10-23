@@ -4,6 +4,7 @@
 
 Title | IMDb Rating | Year | Genres | Directors
 ----- | ----------- | ---- | ------ | ----------
+[Us](https://www.imdb.com/title/tt6857112) | 6.0 | 2019 | Horror, Mystery, Thriller | Jordan Peele
 [Dead Calm](https://www.imdb.com/title/tt0097162/) | 6.8 | 1989 | Horror, Thriller | Phillip Noyce
 [Pi](https://www.imdb.com/title/tt0138704/) | 7.4 | 1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
 [28 Weeks Later](https://www.imdb.com/title/tt0463854/) | 7 | 2007 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
@@ -16,7 +17,9 @@ Title | IMDb Rating | Year | Genres | Directors
 [The Shining](https://www.imdb.com/title/tt0081505/) | 8.4 | 1980 | Drama, Horror | Stanley Kubrick
 [The Devil's Rejects](https://www.imdb.com/title/tt0395584/) | 6.8 | 2005 | Horror | Rob Zombie
 [Identity](https://www.imdb.com/title/tt0309698/) | 7.3 | 2003 | Mystery, Thriller | James Mangold
-[Texas Chainsaw Massacre : The Beginning](www.imdb.com/title/tt0420294/) | 5.8 | 2006 | Horror, Thriller | Jonathan Liebesman
+[The Texas Chainsaw Massacre](https://www.imdb.com/title/tt0324216/) | 6.2 | 2003 | Horror | Marcus Nispel
+[The Texas Chainsaw Massacre](https://www.imdb.com/title/tt0072271/) | 7.5 | 1974 | Horror | Tobe Hooper
+
 
 
 
