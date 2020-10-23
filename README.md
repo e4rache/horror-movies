@@ -38,10 +38,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-Title | URL | IMDb Rating | Year | Genres | Release Date | Directors
------ | --- | ----------- | ---- | ------ | ------------ | ----------
-[Dead Calm](https://www.imdb.com/title/tt0097162/) | no | 6.8 | 1989 | Horror, Thriller | 1989 | Phillip Noyce
-Pi | https://www.imdb.com/title/tt0138704/,7.4,1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | 1998 | Darren Aronofsky
+Title | IMDb Rating | Year | Genres | Directors
+----- | ----------- | ---- | ------ | ----------
+[Dead Calm](https://www.imdb.com/title/tt0097162/) | no | 6.8 | 1989 | Horror, Thriller | Phillip Noyce
+[Pi](https://www.imdb.com/title/tt0138704/) | 7.4 | 1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
 
 
 
