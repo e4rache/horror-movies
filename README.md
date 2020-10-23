@@ -9,7 +9,7 @@ Title (year) | IMDb Rating | Genres | Directors
 [A Quiet Place (2018)](https://www.imdb.com/title/tt6644200/) | 7.5 | Drama, Horror, Sci-Fi | John Krasinski
 [Dead Calm (1989)](https://www.imdb.com/title/tt0097162/) | 6.8 | Horror, Thriller | Phillip Noyce
 [Pi (1998)](https://www.imdb.com/title/tt0138704/) | 7.4 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
-[28 Days Later... (2002)](https://www.imdb.com/title/tt0289043/ | 6.7 | Drama, Horror, Sci-Fi | Danny Boyle
+[28 Days Later... (2002)](https://www.imdb.com/title/tt0289043/) | 6.7 | Drama, Horror, Sci-Fi | Danny Boyle
 [28 Weeks Later (2007)](https://www.imdb.com/title/tt0463854/) | 7 | Action, Horror, Sci-Fi | Juan Carlos Fresnadillo
 [The Blair Witch Project (1999)](https://www.imdb.com/title/tt0185937/) | 6.5 | Horror, Mystery | Eduardo Sánchez, Daniel Myrick
 [Split (2016)](https://www.imdb.com/title/tt4972582/) | 7.3 | Horror, Thriller | M. Night Shyamalan
