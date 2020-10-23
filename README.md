@@ -42,6 +42,10 @@ Title | URL | IMDb Rating | Year | Genres | Release Date | Directors
 ----- | --- | ----------- | ---- | ------ | ------------ | ----------
 Dead Calm | https://www.imdb.com/title/tt0097162/,6.8,1989 | Horror, Thriller | 1989 | Phillip Noyce
 Pi | https://www.imdb.com/title/tt0138704/,7.4,1998 | Drama, Horror, Mystery, Sci-Fi, Thriller | 1998 | Darren Aronofsky
+
+
+
+
 28 Weeks Later,https://www.imdb.com/title/tt0463854/,7,2007,"Action, Horror, Sci-Fi",2007-04-26,Juan Carlos Fresnadillo
 The Blair Witch Project,https://www.imdb.com/title/tt0185937/,6.5,1999,"Horror, Mystery",1999-01-25,"Eduardo Sánchez, Daniel Myrick"
 Split,https://www.imdb.com/title/tt4972582/,7.3,2016,"Horror, Thriller",2016-09-26,M. Night Shyamalan
