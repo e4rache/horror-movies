@@ -4,7 +4,7 @@
 Title (year) | Storyline | IMDb Rating | Genres | Directors
 ------------ | --------- | ----------- | ------ | ----------
 [Us (2019)                    .![Image](img/Us.jpg)](https://www.imdb.com/title/tt6857112) | A family's serene beach vacation turns to chaos when their doppelgängers appear and begin to terrorize them. | 6.0 | Horror, Mystery, Thriller | Jordan Peele
-[Get Out (2017)![Image](img/GetOut.jpg)](https://www.imdb.com/title/tt5052448/) | 7.7 | Horror, Mystery, Thriller | Jordan Peele
+[Get Out (2017)![Image](img/GetOut.jpg)](https://www.imdb.com/title/tt5052448/) |Chris and his girlfriend Rose go upstate to visit her parents for the weekend. At first, Chris reads the family's overly accommodating behavior as nervous attempts to deal with their daughter's interracial relationship, but as the weekend progresses, a series of increasingly disturbing discoveries lead him to a truth that he never could have imagined.| 7.7 | Horror, Mystery, Thriller | Jordan Peele
 [A Quiet Place (2018)![Image](img/AQuietPlace.jpg)](https://www.imdb.com/title/tt6644200/) | 7.5 | Drama, Horror, Sci-Fi | John Krasinski
 [Dead Calm (1989)![Image](img/DeadCalm.jpg)](https://www.imdb.com/title/tt0097162/) | 6.8 | Horror, Thriller | Phillip Noyce
 [Pi (1998)![Image](img/Pi.jpg)](https://www.imdb.com/title/tt0138704/) | 7.4 | Drama, Horror, Mystery, Sci-Fi, Thriller | Darren Aronofsky
