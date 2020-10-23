@@ -24,3 +24,4 @@ Title (year) | Storyline | IMDb Rating | Genres | Directors
 [The Texas Chainsaw Massacre (1974)![Image](img/TheTexasChainsawMassacre1974.jpg)](https://www.imdb.com/title/tt0072271/) | 7.5 | Horror | Tobe Hooper
 [Hereditary (2018)![Image](img/Hereditary.jpg)](https://www.imdb.com/title/tt7784604/) | 7.3 | Drama, Horror, Mystery | Ari Aster
 [Saw (2004)![Image](img/Saw.jpg)](https://www.imdb.com/title/tt0387564/) | 7.6 | Horror, Mystery | James Wan
+[Cube (1997)![Image](img/Cube.jpg)](https://www.imdb.com/title/tt0123755/) |Six complete strangers with widely varying personalities are involuntarily placed in an endless maze containing deadly traps.| 7.2 | Drama, Mystery, Sci-Fi | Vincenzo Natali
