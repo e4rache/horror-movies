@@ -15,7 +15,7 @@ Title | IMDb Rating | Year | Genres | Directors
 [Carrie](https://www.imdb.com/title/tt0074285/) | 7.4 | 1976 | Horror | Brian De Palma
 [The Shining](https://www.imdb.com/title/tt0081505/) | 8.4 | 1980 | Drama, Horror | Stanley Kubrick
 [The Devil's Rejects](https://www.imdb.com/title/tt0395584/) | 6.8 | 2005 | Horror | Rob Zombie
-
+[Identity](https://www.imdb.com/title/tt0309698/) | 7.3 | 2003 | Mystery, Thriller | James Mangold
 
 ![Image](src)
 
