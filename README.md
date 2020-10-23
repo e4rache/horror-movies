@@ -1,9 +1,5 @@
 ## a tiny horror movie list 
- ![Image](src)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
 Title | IMDb Rating | Year | Genres | Directors
@@ -21,4 +17,9 @@ Title | IMDb Rating | Year | Genres | Directors
 [The Devil's Rejects](https://www.imdb.com/title/tt0395584/) | 6.8 | 2005 | Horror | Rob Zombie
 
 
+![Image](src)
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
